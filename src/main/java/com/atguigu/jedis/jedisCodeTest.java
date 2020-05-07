@@ -25,7 +25,7 @@ public class jedisCodeTest {
         }
 
         // master修改 1 【master】
-
+        // master 切换回master后修改 2 【master】
 
         //
 
