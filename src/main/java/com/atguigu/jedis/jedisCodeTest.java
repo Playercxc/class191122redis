@@ -28,6 +28,7 @@ public class jedisCodeTest {
         // master 切换回master后修改 2 【master】
         // hotfix branch 修改 1 【hotfix】
         // merge后提交
+        //new line
 
         //
 
